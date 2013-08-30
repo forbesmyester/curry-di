@@ -1,6 +1,6 @@
 {
   "name": "curry-di",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Similar to the standard curry function found in functional programming but allowing parameters to applied non-sequentially based on names matching a supplied object",
   "author": "Matthew Forrester <curry-di@keyboardwritescode.com>",
   "scripts": {
